@@ -2,11 +2,11 @@ package MyPackage;
 
 public class A {
 
-    private int a_private;
+    private String a_private = "a_private";
 
-    public int a_public;
+    public String a_public = "a_public";
 
-    protected int a_protected;
+    protected String a_protected = "a_protected";
 
 
 }
